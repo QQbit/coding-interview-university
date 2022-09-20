@@ -120,7 +120,7 @@ software development/engineering roles.
 ### Topics of Study
 
 - [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
-- [Data Structures](#data-structures)
+- [Data Structures](#data-structures) : [x]
     - [Arrays](#arrays)
     - [Linked Lists](#linked-lists)
     - [Stack](#stack)
